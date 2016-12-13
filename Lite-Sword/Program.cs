@@ -11,9 +11,9 @@ namespace Lite_Sword
         static void Main(string[] args)
         {
             System.Console.Title = "Lite Sword 0.1.0";
-            Print();
+            Print("1) New Save ");
         }
-        void Print(string words, bool line = true)
+        static void Print(string words, bool line = true)
         {
             if (!line)
                 System.Console.Write(words);
