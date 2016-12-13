@@ -1,0 +1,6 @@
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\bin\Debug\Lite-Sword.exe.config
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\bin\Debug\Lite-Sword.exe
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\bin\Debug\Lite-Sword.pdb
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\obj\Debug\Lite-Sword.csprojResolveAssemblyReference.cache
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\obj\Debug\Lite-Sword.exe
+C:\Users\joey_000\Documents\GitHub\Lite-sword\Lite-Sword\obj\Debug\Lite-Sword.pdb
