@@ -11,6 +11,8 @@ namespace Lite_Sword
         static void NewSave()
         {
             Program.Print("Character Name:");
+            string input = System.Console.ReadLine();
+
         }
     }
 }
