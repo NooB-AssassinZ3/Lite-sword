@@ -35,11 +35,9 @@ set /p xpmax=
 set /p wep=
 set /p wep2=
 set /p arm=
-set /p hpreg=
 set /p money=
 set /p killcount=
 set /p deathcount=
-set /p buff=
 ) < save.sav
 goto hub
 
