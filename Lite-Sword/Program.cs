@@ -8,17 +8,17 @@ namespace Lite_Sword
 {
     class Program
     {
-        bool worked;
+        static bool worked;
         static void Main(string[] args)
         {
-            
+            Menu();
 
                 
         }
 
         
 
-        bool Menu()
+        static bool Menu()
         {
             System.Console.Title = "Lite Sword 0.1.0";
             Print("1) New Save \n2) Load Save \n3) Credits \n4) Exit");

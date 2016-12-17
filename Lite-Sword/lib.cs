@@ -22,7 +22,7 @@ namespace Lite_Sword
         public int deathcount;
 
         //Store
-        // {Name, }
-        public static string[] knife= { };
+        // { }
+        public static string[][] Weapons = new string[][] { new string[] { } };
     }
 }

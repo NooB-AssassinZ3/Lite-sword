@@ -6,7 +6,7 @@
         {
             Program.Print("Character Name:");
             string input = System.Console.ReadLine();
-
+            
         }
     }
 }
