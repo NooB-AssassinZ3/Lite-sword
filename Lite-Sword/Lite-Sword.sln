@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio 2012
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lite-Sword", "Lite-Sword.csproj", "{98C57C60-8831-4AF1-9419-B0F7C426FAD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Litesword", "Litesword\Litesword.csproj", "{FC40BA4E-0FAF-4FEB-AA2E-514197C0EB7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,39 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{98C57C60-8831-4AF1-9419-B0F7C426FAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98C57C60-8831-4AF1-9419-B0F7C426FAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98C57C60-8831-4AF1-9419-B0F7C426FAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98C57C60-8831-4AF1-9419-B0F7C426FAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC40BA4E-0FAF-4FEB-AA2E-514197C0EB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC40BA4E-0FAF-4FEB-AA2E-514197C0EB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC40BA4E-0FAF-4FEB-AA2E-514197C0EB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC40BA4E-0FAF-4FEB-AA2E-514197C0EB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileName
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = application/config+xml
+		$0.XmlFormattingPolicy = $5
+		$5.inheritsSet = null
+		$5.scope = application/config+xml
+		$0.TextStylePolicy = $6
+		$6.inheritsSet = null
+		$6.scope = application/xml
+		$0.XmlFormattingPolicy = $7
+		$7.inheritsSet = Mono
+		$7.inheritsScope = application/xml
+		$7.scope = application/xml
+		$0.VersionControlPolicy = $8
+		$8.inheritsSet = Mono
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
