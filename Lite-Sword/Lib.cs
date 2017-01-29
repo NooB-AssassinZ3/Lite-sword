@@ -23,7 +23,7 @@ namespace Lite_Sword
 
         //Store
         // { }
-        //weaponss
+        //weapons
         public static string[][] Weapons = new string[][] { new string[] { } };
     }
 }

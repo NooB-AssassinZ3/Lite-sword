@@ -1,4 +1,6 @@
-﻿namespace Lite_Sword
+﻿using System.IO;
+
+namespace Lite_Sword
 {
     class IO
     {
