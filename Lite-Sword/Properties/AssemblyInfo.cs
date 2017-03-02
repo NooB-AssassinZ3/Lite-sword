@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Lite-Sword")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A Game I made when younger")]
 
 
 // Setting ComVisible to false makes the types in this assembly not visible 
